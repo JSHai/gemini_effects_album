@@ -1,0 +1,2 @@
+# gemini_effects_album
+gemini3生成的粒子特效相册
