@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Particle V42",
+  "description": "A high-performance interactive particle system featuring geometric shape morphing, hand gesture control via computer vision, and dynamic image gallery visualization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
